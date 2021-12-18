@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=digodigopt&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=digodigopt&redirect=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmbdpt)](https://github.com/anuraghazra/github-readme-stats)
